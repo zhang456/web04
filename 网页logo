@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>网易logo</title>
+	<style>
+	.logo{
+		width:129px;
+		height:38px;
+	}
+	.logo a{
+		display: inline-block;
+		width:129px;
+		height:58px;
+		background: url(1.png)no-repeat;
+		text-indent: -99em;
+		overflow: hidden;
+	}
+	</style>
+</head>
+<body>
+	<h1 class="logo">
+	<a href="#">网易有态度</a>
+	</h1>
+</body>
+</html>
